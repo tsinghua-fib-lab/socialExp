@@ -12,4 +12,4 @@ Contains code and dependencies for "Gun Control Policy" polarization simulation 
 Implements Universal Basic Income (UBI) policy simulation experiments. 
 
 ### hurricane/
-Provides simulation infrastructure for disaster response experiments. 
+Implements simulation experiments for the impact of hurricane. 

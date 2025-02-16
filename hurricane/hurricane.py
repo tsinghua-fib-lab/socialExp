@@ -5,7 +5,7 @@ from functools import partial
 from typing import Literal, Union
 
 import ray
-from hurrican_memory_config import memory_config_societyagent_hurrican
+from hurricane_memory_config import memory_config_societyagent_hurrican
 
 from agentsociety import AgentSimulation
 from agentsociety.cityagent import SocietyAgent
